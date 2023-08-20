@@ -1,11 +1,9 @@
 ## Olá, Eu sou o Matheus Spindula
 
-<div>
+<div style="display: flex; justify-content: space-around;"><br>
   <a href="https://github.com/Matheussop">
     
   ![Matheussop GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheussop&show_icons=true&theme=dark&include_all_commits=true&count_private=true")
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussop&layout=compact&theme=dark)](https://github.com/Matheussop/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
