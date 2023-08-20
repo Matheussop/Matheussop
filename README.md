@@ -2,10 +2,10 @@
 
 <div><br>
   <a href="https://github.com/Matheussop">
-  <a href="https://github.com/Matheussop/github-readme-stats">
+  <a href="https://github.com/Matheussop">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheussop&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
   </a>
-  <a href="https://github.com/Matheussop/convoychat">
+  <a href="https://github.com/Matheussop">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheussop&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
