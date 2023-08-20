@@ -1,10 +1,16 @@
 ## Olá, Eu sou o Matheus Spindula
 
-<div style="display: flex; justify-content: space-around;"><br>
+<div><br>
   <a href="https://github.com/Matheussop">
-    
-  ![Matheussop GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheussop&show_icons=true&theme=dark&include_all_commits=true&count_private=true")
+  <a href="https://github.com/Matheussop/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheussop&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/Matheussop/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheussop&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
 </div>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheussop-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
