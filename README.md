@@ -33,5 +33,5 @@
   
 
 - 🔭 Hoje eu trabalho mais focado no front-end.
-- 🌱 Estudando React e Python
+- 🌱 Estudando React, Node e Python
 - 📫 Contate-me no email: matheussopluiz@outlook.com
